@@ -1,0 +1,17 @@
+0 verbose cli /usr/local/nvm/versions/node/v20.17.0/bin/node /usr/local/nvm/versions/node/v20.17.0/lib/node_modules/npm/bin/npm-cli.js
+1 info using npm@11.3.0
+2 info using node@v20.17.0
+3 silly config load:file:/usr/local/nvm/versions/node/v20.17.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/app/.npmrc
+5 silly config load:file:/usr/local/nvm/versions/node/v20.17.0/etc/npmrc
+6 verbose title npm exec eslint --format unix -- src/app/layout.tsx src/app/pcp/page.tsx src/components/compras/purchasing-dashboard.tsx src/app/estoque/page.tsx src/components/sidebar.tsx src/components/manutencao/maintenance-dashboard.tsx src/components/dashboard/main-dashboard.tsx src/components/estoque/inventory-dashboard.tsx src/app/compras/page.tsx src/components/header.tsx src/components/ai-integration/ai-chat.tsx src/app/manutencao/page.tsx src/components/pcp/pcp-dashboard.tsx src/app/page.tsx
+7 verbose argv "exec" "--" "eslint" "--format" "unix" "--" "src/app/layout.tsx" "src/app/pcp/page.tsx" "src/components/compras/purchasing-dashboard.tsx" "src/app/estoque/page.tsx" "src/components/sidebar.tsx" "src/components/manutencao/maintenance-dashboard.tsx" "src/components/dashboard/main-dashboard.tsx" "src/components/estoque/inventory-dashboard.tsx" "src/app/compras/page.tsx" "src/components/header.tsx" "src/components/ai-integration/ai-chat.tsx" "src/app/manutencao/page.tsx" "src/components/pcp/pcp-dashboard.tsx" "src/app/page.tsx"
+8 verbose logfile logs-max:10 dir:/app/.npm/_logs/2025-05-12T19_55_36_856Z-
+9 verbose logfile /app/.npm/_logs/2025-05-12T19_55_36_856Z-debug-0.log
+10 silly logfile done cleaning log files
+11 verbose cwd /app
+12 verbose os Linux 6.8.0-1024-aws
+13 verbose node v20.17.0
+14 verbose npm  v11.3.0
+15 verbose exit 1
+16 verbose code 1
